@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://touchmyoc.space"><img src="https://img.shields.io/badge/Website-touchmyoc.space-88131E?style=flat-square&labelColor=141417" alt="Website" /></a>
   <a href="https://www.youtube.com/@LT_rosso"><img src="https://img.shields.io/badge/YouTube-%40LT__rosso-9A7B3E?style=flat-square&logo=youtube&logoColor=F5F5F4&labelColor=141417" alt="YouTube" /></a>
-  <a href="https://www.facebook.com/tep.rosso/"><img src="https://img.shields.io/badge/Facebook-tep.rosso-5C1118?style=flat-square&logo=facebook&logoColor=F5F5F4&labelColor=141417" alt="Facebook" /></a>
   <a href="mailto:letiep.work@gmail.com"><img src="https://img.shields.io/badge/Email-letiep.work%40gmail.com-27272A?style=flat-square&logo=gmail&logoColor=D4AF37&labelColor=141417" alt="Email" /></a>
 </p>
 
