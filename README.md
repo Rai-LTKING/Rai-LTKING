@@ -1,22 +1,19 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="./assets/header.svg" alt="Le Huynh Cong Tiep" />
+</p>
 
-<!-- MAFIA ROSSO NOIR WAVING BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,55:24070b,100:5c0a14&height=195&section=header&text=Le%20Huynh%20Cong%20Tiep&fontSize=40&fontColor=f5f5f4&fontAlignY=37&desc=Rai%20%C2%B7%20Tep%20%E2%80%94%20Software%20Developer%20%26%20Character%20Animator&descSize=15&descColor=d4af37&descAlignY=58&animation=fadeIn" alt="Le Huynh Cong Tiep" />
+<p align="center">
+  <a href="https://github.com/Rai-LTKING">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1600&color=D4AF37&center=true&vCenter=true&width=680&lines=Software+Developer+%C2%B7+2D+%26+3D+Character+Animator;Founder+%26+Creator+%E2%80%94+Interactive+2D+OC+Platform;Building+Scalable+Systems+%C2%B7+Bringing+Characters+to+Life" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- TYPING INTRO (CHAMPAGNE GOLD) -->
-<a href="https://github.com/Rai-LTKING">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1600&color=D4AF37&center=true&vCenter=true&width=680&lines=Software+Developer+%C2%B7+2D+%26+3D+Character+Animator;Founder+%26+Creator+%E2%80%94+Interactive+2D+OC+Platform;Building+Scalable+Systems+%C2%B7+Bringing+Characters+to+Life" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- QUICK LINKS (OBSIDIAN, CRIMSON ROSSO & VINTAGE GOLD) -->
-<a href="https://touchmyoc.space"><img src="https://img.shields.io/badge/Website-touchmyoc.space-88131E?style=flat-square&labelColor=141417" alt="Website" /></a>
-<a href="https://www.youtube.com/@LT_rosso"><img src="https://img.shields.io/badge/YouTube-%40LT__rosso-9A7B3E?style=flat-square&logo=youtube&logoColor=F5F5F4&labelColor=141417" alt="YouTube" /></a>
-<a href="https://www.facebook.com/tep.rosso/"><img src="https://img.shields.io/badge/Facebook-tep.rosso-5C1118?style=flat-square&logo=facebook&logoColor=F5F5F4&labelColor=141417" alt="Facebook" /></a>
-<a href="mailto:letiep.work@gmail.com"><img src="https://img.shields.io/badge/Email-letiep.work%40gmail.com-27272A?style=flat-square&logo=gmail&logoColor=D4AF37&labelColor=141417" alt="Email" /></a>
-
-</div>
+<p align="center">
+  <a href="https://touchmyoc.space"><img src="https://img.shields.io/badge/Website-touchmyoc.space-88131E?style=flat-square&labelColor=141417" alt="Website" /></a>
+  <a href="https://www.youtube.com/@LT_rosso"><img src="https://img.shields.io/badge/YouTube-%40LT__rosso-9A7B3E?style=flat-square&logo=youtube&logoColor=F5F5F4&labelColor=141417" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/tep.rosso/"><img src="https://img.shields.io/badge/Facebook-tep.rosso-5C1118?style=flat-square&logo=facebook&logoColor=F5F5F4&labelColor=141417" alt="Facebook" /></a>
+  <a href="mailto:letiep.work@gmail.com"><img src="https://img.shields.io/badge/Email-letiep.work%40gmail.com-27272A?style=flat-square&logo=gmail&logoColor=D4AF37&labelColor=141417" alt="Email" /></a>
+</p>
 
 ---
 
@@ -125,15 +122,15 @@ I work at the intersection of software engineering and visual craft: building we
 
 ### GitHub Metrics
 
-<div align="center">
+<p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rai-LTKING&theme=github_dark&bg_color=111113&border_color=381419&title_color=D4AF37&text_color=E7E5E4&icon_color=B91C1C&chart_color=991B1B" alt="Profile Details" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rai-LTKING&theme=github_dark&bg_color=111113&border_color=381419&title_color=D4AF37&text_color=E7E5E4&icon_color=B91C1C&chart_color=991B1B" alt="Top Languages" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rai-LTKING&theme=github_dark&bg_color=111113&border_color=381419&title_color=D4AF37&text_color=E7E5E4&icon_color=B91C1C&chart_color=991B1B" alt="GitHub Stats" />
-</div>
+</p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5c0a14,45:24070b,100:09090b&height=100&section=footer" alt="Footer" />
-</div>
+<p align="center">
+  <img width="100%" src="./assets/footer.svg" alt="Footer" />
+</p>

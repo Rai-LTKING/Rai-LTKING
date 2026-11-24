@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090B"/>
+      <stop offset="50%" stop-color="#1A0609"/>
+      <stop offset="85%" stop-color="#3D0810"/>
+      <stop offset="100%" stop-color="#120507"/>
+    </linearGradient>
+    <radialGradient id="crimsonGlow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#88131E" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#09090B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#D4AF37" stop-opacity="0.65"/>
+      <stop offset="50%" stop-color="#F3E5AB" stop-opacity="0.95"/>
+      <stop offset="75%" stop-color="#D4AF37" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4A0810" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#88131E" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2A060A" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#160709" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base Obsidian & Crimson Atmosphere -->
+  <rect width="1200" height="230" rx="10" fill="url(#bg)"/>
+  <rect width="1200" height="230" rx="10" fill="url(#crimsonGlow)"/>
+
+  <!-- Subtle Gold Syndicate Frame -->
+  <rect x="16" y="14" width="1168" height="202" rx="6" fill="none" stroke="#D4AF37" stroke-opacity="0.22" stroke-width="1"/>
+  <line x1="180" y1="36" x2="1020" y2="36" stroke="url(#goldLine)" stroke-width="1"/>
+
+  <!-- Animated Velvet Waves -->
+  <path fill="url(#wave1)">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite" values="
+      M0,175 C300,140 550,210 850,168 C1020,145 1120,165 1200,155 L1200,230 L0,230 Z;
+      M0,162 C280,205 600,138 900,182 C1050,200 1140,160 1200,170 L1200,230 L0,230 Z;
+      M0,175 C300,140 550,210 850,168 C1020,145 1120,165 1200,155 L1200,230 L0,230 Z" />
+  </path>
+  <path fill="url(#wave2)">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="
+      M0,192 C320,218 640,165 960,198 C1090,210 1155,195 1200,188 L1200,230 L0,230 Z;
+      M0,198 C350,170 680,215 980,185 C1100,175 1160,198 1200,195 L1200,230 L0,230 Z;
+      M0,192 C320,218 640,165 960,198 C1090,210 1155,195 1200,188 L1200,230 L0,230 Z" />
+  </path>
+
+  <!-- Emblem -->
+  <text x="600" y="62" text-anchor="middle" fill="#C5A059" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="6" opacity="0.9">
+    &#9670;  R O S S O  &#9670;
+  </text>
+
+  <!-- Main Name -->
+  <text x="600" y="116" text-anchor="middle" fill="#F5F5F4" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="bold" letter-spacing="3">
+    Le Huynh Cong Tiep
+  </text>
+
+  <!-- Gold Divider -->
+  <line x1="360" y1="136" x2="840" y2="136" stroke="url(#goldLine)" stroke-width="1"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="162" text-anchor="middle" fill="#D4AF37" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="2.5">
+    RAI &#183; TEP  &#8212;  SOFTWARE DEVELOPER &amp; CHARACTER ANIMATOR
+  </text>
+</svg>
